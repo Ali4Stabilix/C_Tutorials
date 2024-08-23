@@ -17,6 +17,6 @@ int main() {
 
     // Display the result
     printf("Area of the rectangle: %d\n", area);
-
+    //Aijo BaBY
     return 0;
 }
