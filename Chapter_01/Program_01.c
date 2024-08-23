@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Sidhu Nasri Aleena cheruth anu
 int main() {
     // Declare variables
     int length, width;
