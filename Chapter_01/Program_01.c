@@ -1,4 +1,5 @@
 #include <stdio.h>
+//benpaul navya lia seetha
 
 int main() {
     // Declare variables
