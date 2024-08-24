@@ -3,6 +3,7 @@
 int main() {
     // Declare variables
     int length, width;
+    //Lima ,Helen,Arya,Edwin
 
     // Get user input for length
     printf("Enter the length of the rectangle: ");
